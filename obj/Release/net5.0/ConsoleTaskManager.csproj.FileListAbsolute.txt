@@ -1,0 +1,16 @@
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\bin\Release\net5.0\ConsoleTaskManager.exe
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\bin\Release\net5.0\ConsoleTaskManager.deps.json
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\bin\Release\net5.0\ConsoleTaskManager.runtimeconfig.json
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\bin\Release\net5.0\ConsoleTaskManager.runtimeconfig.dev.json
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\bin\Release\net5.0\ConsoleTaskManager.dll
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\bin\Release\net5.0\ref\ConsoleTaskManager.dll
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\bin\Release\net5.0\ConsoleTaskManager.pdb
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\obj\Release\net5.0\ConsoleTaskManager.csproj.AssemblyReference.cache
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\obj\Release\net5.0\ConsoleTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\obj\Release\net5.0\ConsoleTaskManager.AssemblyInfoInputs.cache
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\obj\Release\net5.0\ConsoleTaskManager.AssemblyInfo.cs
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\obj\Release\net5.0\ConsoleTaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\obj\Release\net5.0\ConsoleTaskManager.dll
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\obj\Release\net5.0\ref\ConsoleTaskManager.dll
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\obj\Release\net5.0\ConsoleTaskManager.pdb
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\obj\Release\net5.0\ConsoleTaskManager.genruntimeconfig.cache

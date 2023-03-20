@@ -1,0 +1,5 @@
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\bin\Release\net5.0\publish\ConsoleTaskManager.exe
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\bin\Release\net5.0\publish\ConsoleTaskManager.dll
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\bin\Release\net5.0\publish\ConsoleTaskManager.deps.json
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\bin\Release\net5.0\publish\ConsoleTaskManager.runtimeconfig.json
+C:\Users\Arseniy\Desktop\С#\Решаю\ConsoleTaskManager\bin\Release\net5.0\publish\ConsoleTaskManager.pdb

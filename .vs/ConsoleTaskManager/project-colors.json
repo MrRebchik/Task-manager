@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "239e9423-0eab-450c-9a29-b1e9668090b8": {
+      "ProjectGuid": "239e9423-0eab-450c-9a29-b1e9668090b8",
+      "DisplayName": "ConsoleTaskManager",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
