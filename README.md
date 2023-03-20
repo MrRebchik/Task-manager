@@ -2,7 +2,7 @@
 This console application is used to control your tasks, allowing you to take into account the urgency and importance. in the future, it is planned to transfer the application to WPF and rebuild it to DB
 
 RU
-Приложение управляется через командную строку
+Приложение управляется через командную строку.
 Ипользуется следующий перечень команд:
  help - прочитать справку по командам,
  show - отобразить таблицу со списком дел,
